@@ -1,0 +1,1 @@
+This shred focuses on the User Registration feature within a Spring Boot application, leveraging Hexagonal Architecture to ensure separation of concerns. The domain layer encapsulates the core business logic and rules for user management. The application layer acts as a mediator, defining ports and 
